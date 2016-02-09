@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4770466_0007.png"; bbox 0 0 2955 3681; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 2955 1125">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 2955 1125">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 2955 1125; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 2955 1125; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1183 1507 1830 1635">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1183 1507 1830 1635">
+     <span class='ocr_line' id='line_1_2' title="bbox 1183 1507 1830 1635; baseline -0.003 -16"><span class='ocrx_word' id='word_1_2' title='bbox 1183 1545 1324 1619; x_wconf 79' lang='grc' dir='ltr'><strong>ΙΙ.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1370 1507 1830 1635; x_wconf 69' lang='lat' dir='ltr'><strong>Rumpf.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 696 2919 2326 2960">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 696 2919 2326 2960">
+     <span class='ocr_line' id='line_1_3' title="bbox 696 2919 2326 2960; baseline -0.001 -7"><span class='ocrx_word' id='word_1_4' title='bbox 696 2919 2326 2960; x_wconf 43' lang='lat' dir='ltr'><strong>wewam——</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1149 3032 1862 3217">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1149 3032 1862 3217">
+     <span class='ocr_line' id='line_1_4' title="bbox 1283 3032 1742 3112; baseline 0 -12"><span class='ocrx_word' id='word_1_5' title='bbox 1283 3033 1518 3112; x_wconf 74' lang='lat' dir='ltr'><strong>Gissae</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1557 3032 1742 3102; x_wconf 76' lang='lat'><strong>1858.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1149 3146 1862 3217; baseline 0.001 -12"><span class='ocrx_word' id='word_1_7' title='bbox 1149 3146 1344 3206; x_wconf 76' lang='lat' dir='ltr'>Prostat</span> <span class='ocrx_word' id='word_1_8' title='bbox 1372 3149 1502 3217; x_wconf 71' lang='lat' dir='ltr'><strong>apud</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1520 3148 1565 3206; x_wconf 84' lang='lat'><strong>·1.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1597 3147 1862 3206; x_wconf 67' lang='lat' dir='ltr'><strong>lutherum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 3465 258 3681">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 3465 258 3681">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 3465 258 3681; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 3465 258 3681; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
